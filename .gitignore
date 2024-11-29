@@ -1,0 +1,18 @@
+/Packages
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+
+# Логи и временные файлы
+*.log
+*.xcuserstate
+# Xcode пользовательские данные и временные файлы
+**/xcuserdata/
+**/xcdebugger/
+**/*.xcscmblueprint
+# macOS системные файлы
+.DS_Store
+*.swp
+*.lock
+# Данные сборки
+DerivedData/
+Build/
+.build/
